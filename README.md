@@ -4,8 +4,7 @@
 </h1>
 <h4 align="center">
   Cadastre-se para achar devs em um raio de 10km de você e fazer novos contatos.</br>
-  Filtre suas buscar por tecnologias de interesse e conheça o GitHub dos devs próximos a você.  
-  
+  Filtre suas buscar por tecnologias de interesse e conheça o GitHub dos devs próximos a você.</br>  
 </h4>
 <h4 align="center">
   
@@ -39,6 +38,13 @@ This project was developed with the following technologies:
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [MoongoDB](https://www.mongodb.com/)
+
+```bash
+  #API's
+```
+
+- [Google maps API](https://cloud.google.com/maps-platform?hl=en)
+- [GitHub API](https://developer.github.com/v3/repos/)
 
 ## :information_source: How To Use
 
@@ -77,6 +83,6 @@ $ yarn or npm start
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/IgorMarchi/devRadar/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/igor-marchi/devRadar/blob/master/LICENSE) for more information.
 
 Made with ❤ [Igor Marchi](https://www.linkedin.com/in/igor-marchi/) :laughing:

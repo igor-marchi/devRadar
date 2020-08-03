@@ -43,7 +43,7 @@ This project was developed with the following technologies:
   #API's
 ```
 
-- [Google maps API](https://cloud.google.com/maps-platform?hl=en)
+- [Google Maps API](https://cloud.google.com/maps-platform?hl=en)
 - [GitHub API](https://developer.github.com/v3/repos/)
 
 ## :information_source: How To Use

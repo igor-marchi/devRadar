@@ -23,11 +23,11 @@ Filter your search for technologies of interest and get to know the GitHub of th
 </p>
 
 <p align="center">
-  |............................|
+
   <img alt="App Demo" src="mobile/assets/GitHubReadme/mobilee.gif">
-  |............................|
+  | ... |
   <img alt="App Demo" src="mobile/assets/GitHubReadme/mobile2.gif">
-  |............................|
+  
 </p>
 
 ## :rocket: Technologies
